@@ -54,6 +54,10 @@ entries:
       external_url: https://www.ibm.com/support/knowledgecenter/en/SSVRGU_10.0.0/whats_new/wpd_whatsnew.html
       output: web
       
+    - title:  10.0 - Notes and Domino Fix List
+      external_url: http://www-10.lotus.com/ldd/fixlist.nsf/Public?OpenView
+      output: web
+      
 
   - title: Designer 10.0.1 Docs
     output: web
@@ -381,6 +385,10 @@ entries:
     - title: JustForDomino Companies
       external_url: http://www.justfordomino.com/products.nsf/CompanyList
       output: web
+      
+    - title: NotesMail Consulting (US)
+      external_url: https://www.notesmail.com/IBM-Domino-Consulting
+      output: web
 
 
   - title: IBM Champions
@@ -447,6 +455,10 @@ entries:
     - title: Ytria
       external_url: https://www.ytria.com/ezsuite
       output: web
+      
+    - title: Crucial Notes tools
+      external_url: https://www.notesmail.com/IBM-Notes-tools
+      output: web
 
   - title: Tools - Marketing & CRM
     output: web
@@ -467,7 +479,11 @@ entries:
     - title: VMobile
       external_url: http://www.vigilus.net/website/notes,-mobile-and-web.html
       output: web
-
+      
+    - title: PMR email marketing
+      external_url: https://www.notesmail.com/PrintMergeReporter
+      output: web 
+      
   - title: Tools - Modernization
     output: web
     folderitems:
@@ -488,7 +504,31 @@ entries:
       external_url: https://www.teamworkr.com
       output: web
 
-  - title: Tools - Reporting & SQL
+- title: Tools - Other
+    output: web
+    folderitems:
+    
+    - title: AttachZIP
+      external_url: https://www.notesmail.com/AttachZIP
+      output: web    
+      
+    - title: Global Solutions Directory (GSD)
+      external_url: https://www.ibm.com/partnerworld/gsd/search.do?src=dominonews.com
+      output: web   
+      
+    - title: H-Fax Voicemail Center
+      external_url: https://www.notesmail.com/H-FaxVoicemailCenter
+      output: web   
+      
+    - title: iChiro Cloud
+      external_url: https://www.notesmail.com/iChiro
+      output: web   
+      
+    - title: Mailbox Stationery Manager
+      external_url: https://www.notesmail.com/MailboxStationeryManager
+      output: web   
+
+- title: Tools - Reporting & SQL
     output: web
     folderitems:
 
@@ -522,7 +562,10 @@ entries:
     - title: Swing PDF Converter
       external_url: https://www.swingsoftware.com/pdf-converter/overview
       output: web
-
+      
+    - title: Print Merge Reporter
+      external_url: https://www.notesmail.com/PrintMergeReporter
+      output: web
 
   - title: Tools - Security
     output: web
@@ -535,7 +578,14 @@ entries:
     - title: PortalGuard
       external_url: https://www.portalguard.com/domino.html
       output: web
-
+      
+    - title: ACL Dominator - admin reports
+      external_url: https://www.notesmail.com/ACLdominator
+      output: web
+      
+    - title: TOTAL Recall - recall spam
+      external_url: https://www.notesmail.com/TotalRecall
+      output: web
 
   - title: Tools - WebSphere J2EE
     output: web
@@ -578,8 +628,14 @@ entries:
     - title: WWoW.com
       external_url: http://wwow.com/
       output: web
+      
+    - title: Archive Mailbox Reverter
+      external_url: https://www.notesmail.com/ArchiveMailboxReverter
+      output: web
 
-
+    - title: NotesMail Services (US)
+      external_url: https://www.notesmail.com/IBM-Domino-consulting
+      output: web
 
 #links to old Domino help files R5 - R8?
 #how to contribute updates to the site
